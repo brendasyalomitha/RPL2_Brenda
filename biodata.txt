@@ -1,0 +1,4 @@
+biodata
+nama : brenda asyalomitha
+kelas : 4ia26
+npm : 50421291
